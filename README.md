@@ -70,10 +70,6 @@ Sou apaixonado por artes e tecnologia, alguns dos meus hobbies são jogos, assis
  📈 Status 📈
 </h1>
 
-<h1 align="center">
- 📈 Status 📈
-</h1>
-
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <div style="border: 1px solid #ccc; border-radius: 8px; padding: 10px; max-width: 320px; text-align: center;">
     <h3>GitHub Stats</h3>
