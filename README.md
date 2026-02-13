@@ -64,11 +64,11 @@ Sou apaixonado por artes e tecnologia, alguns dos meus hobbies são jogos, assis
  📈 O que ando fazendo? 📈
 
 </h1>
-<p align="justify"> 
+
 </br> - 🎓 Estudando **Sistemas Distribuídos** e **Análise de Sistemas**
 </br> - 🚀 Desenvolvendo scripts de automação e integração de APIs.
 </br> - 🔒 Me especializando em segurança de infraestrutura cloud.
-</p>
+
 <p align="center">"Transformando café em código e problemas em soluções escaláveis."</p>
 
 <h1 align="center">
