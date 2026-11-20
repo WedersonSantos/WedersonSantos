@@ -11,6 +11,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wederson-ferreira-dos-santos-157229247/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wedersonsantos2004@gmail.com)
 
+
+<img
+  height="380em"
+  src="https://github.com/WedersonSantos/assets-cover.gif/raw/c4cdbf3986f9e9b935b6a4e5ef0d1038394a4ec3/HomeOffice.gif"
+/>
 </div>
 
 ---
