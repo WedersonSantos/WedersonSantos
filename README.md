@@ -4,7 +4,7 @@
 
 ### Back-end • Automação • Dados
 
-**Python • PHP • SQL • APIs REST • Geospatial Data**
+**Python | PHP | SQL | APIs REST | GIS | IA Generativa**
 
 <img
   height="380em"
@@ -260,15 +260,5 @@ Projetos desenvolvidos durante formação prática envolvendo:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-
-</div>
-
----
-
-<div align="center">
-
-### Back-end • Automação • Dados
-
-**Python | PHP | SQL | APIs REST | GIS | IA Generativa**
 
 </div>
