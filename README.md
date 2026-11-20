@@ -4,7 +4,7 @@
 
 ### Back-end • Automação • Dados
 
-**Python | PHP | SQL | APIs REST | GIS | IA Generativa**
+**Python | PHP | SQL | APIs REST | IA Generativa**
 
 <img
   height="380em"
