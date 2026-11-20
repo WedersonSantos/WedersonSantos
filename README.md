@@ -14,7 +14,7 @@
 
 <img
   height="380em"
-  src="https://github.com/WedersonSantos/assets-cover.gif/raw/c4cdbf3986f9e9b935b6a4e5ef0d1038394a4ec3/HomeOffice.gif"
+  src="[https://github.com/WedersonSantos/assets-cover.gif/raw/c4cdbf3986f9e9b935b6a4e5ef0d1038394a4ec3/HomeOffice.gif](https://github.com/WedersonSantos/assets-cover.gif/blob/main/Escritório%20Pixelado%20de%20Automação%20e%20Dados.gif)"
 />
 </div>
 
