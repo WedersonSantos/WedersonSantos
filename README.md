@@ -12,10 +12,11 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wedersonsantos2004@gmail.com)
 
 
-<img
-  height="380em"
-  src="[https://github.com/WedersonSantos/assets-cover.gif/raw/c4cdbf3986f9e9b935b6a4e5ef0d1038394a4ec3/HomeOffice.gif](https://github.com/WedersonSantos/assets-cover.gif/blob/main/Escritório%20Pixelado%20de%20Automação%20e%20Dados.gif)"
-/>
+   <img
+    height="380"
+    src="https://raw.githubusercontent.com/WedersonSantos/assets-cover.gif/main/Escrit%C3%B3rio%20Pixelado%20de%20Automa%C3%A7%C3%A3o%20e%20Dados.gif"
+    alt="Wederson Ferreira | Back-end, Automação e Dados"
+  />
 </div>
 
 ---
